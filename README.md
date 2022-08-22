@@ -1,10 +1,10 @@
 # dbzrpg
-ドラゴンボールZ RPG  ver0.9xxx</br>
+DBZRPG  ver0.9xxx</br>
 Creator: DBZ ◆nq57XXvzKI
 
 ----
 
-■dbzrpgに提供するBGM追加曲候補の調整について
+■dbzrpgに提供するoggの調整について
 
 ラウドネス測定（但しITU-R提唱のBS.1770-4準拠）による楽曲間平均化処理を行い、
 次におおよそ-1.9db～1.9db程度の範囲で個別に再調整。
