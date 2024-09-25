@@ -28,3 +28,14 @@ Performs inter-music averaging processing by loudness measurement (however, base
 It should be noted that the average adjustment is made, but in the end, each person hears differently. (In addition to the state of the individual's brain, it also changes with the speaker) The adjustment is limited to a level that seems to be roughly average.
 
 I want as many people as possible not to feel the volume problem, but ... Is there any good way? 
+
+
+Proper Translation:
+
+Regarding the adjustment of OGG files provided to DBZRPG:
+
+We will perform an averaging process between tracks using loudness measurements (in accordance with ITU-R's BS.1770-4 standards), followed by individual readjustments within a range of approximately -1.9dB to 1.9dB. However, for files that experience issues using this method, we will adjust them separately as needed.
+
+That said, even with an "average adjustment," how people perceive sound ultimately varies from person to person. (This can be influenced by the state of an individual's brain as well as the speakers used.) We are keeping the adjustments to what we believe is a generally average level.
+
+We want to ensure that as many people as possible don't experience any volume-related issues, but... I wonder if there is a better way to achieve this.
